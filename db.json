@@ -35,22 +35,6 @@
     },
     {
       "i": {
-        "height": 3636,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM4MTg3Y2MtOWZiMi00YTYzLTkyZjctNjM5ZmUzYWZkMjE3XkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_.jpg",
-        "width": 2909
-      },
-      "id": "tt7939768",
-      "l": "The Mighty Ducks: Game Changers",
-      "q": "TV series",
-      "qid": "tvSeries",
-      "description": "After failing to make the cut to join the now powerhouse Mighty Ducks junior hockey team, 12-year-old Evan's mother encourages him to form a new team of underdogs with help from Gordon Bombay, the Ducks' original coach.",
-      "genre": "Comedy",
-      "rank": 227,
-      "s": "Luke Islam, Lauren Graham",
-      "y": 2021
-    },
-    {
-      "i": {
         "height": 2190,
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQ2ODFhNWItNTA4NS00MzkyLTgyYzUtZjlhYWE5MmEzY2Q1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
         "width": 1458
@@ -64,22 +48,6 @@
       "rank": 1395,
       "s": "Michael Douglas, Deborah Kara Unger",
       "y": 1997
-    },
-    {
-      "i": {
-        "height": 1969,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_.jpg",
-        "width": 1321
-      },
-      "id": "tt2084970",
-      "l": "The Imitation Game",
-      "q": "feature",
-      "qid": "movie",
-      "description": "Alan Turing, a British mathematician, joins the cryptography team to decipher the German enigma code. With the help of his fellow mathematicians, he builds a machine to crack the codes.",
-      "genre": "Drama",
-      "rank": 1267,
-      "s": "Benedict Cumberbatch, Keira Knightley",
-      "y": 2014
     },
     {
       "i": {
@@ -131,22 +99,6 @@
     },
     {
       "i": {
-        "height": 2936,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-        "width": 1978
-      },
-      "id": "tt0120737",
-      "l": "The Lord of the Rings: The Fellowship of the Ring",
-      "q": "feature",
-      "qid": "movie",
-      "description": "A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
-      "genre": "Fantasy",
-      "rank": 110,
-      "s": "Elijah Wood, Ian McKellen",
-      "y": 2001
-    },
-    {
-      "i": {
         "height": 2048,
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
         "width": 1382
@@ -163,22 +115,6 @@
     },
     {
       "i": {
-        "height": 2048,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
-        "width": 1382
-      },
-      "id": "tt1211837",
-      "l": "Doctor Strange",
-      "q": "feature",
-      "qid": "movie",
-      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
-      "genre": "Sci-Fi",
-      "rank": 1071,
-      "s": "Benedict Cumberbatch, Chiwetel Ejiofor",
-      "y": 2016
-    },
-    {
-      "i": {
         "height": 2500,
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
         "width": 1688
@@ -192,23 +128,6 @@
       "rank": 255,
       "s": "Benedict Cumberbatch, Elizabeth Olsen",
       "y": 2022
-    },
-    {
-      "i": {
-        "height": 807,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5YTAwMWQtZDBlNS00OTAzLWJlYzYtODVmMTRmYjVhMWE4XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_.jpg",
-        "width": 540
-      },
-      "id": "tt3693414",
-      "l": "Doctor Stranger",
-      "q": "TV series",
-      "qid": "tvSeries",
-      "description": "A young doctor flees North Korea for life in the south, where he finds a woman who looks exactly like the woman he lost track of during his escape.",
-      "genre": "k-drama",
-      "rank": 29293,
-      "s": "Lee Jong-Suk, Se-Yeon Jin",
-      "y": 2014,
-      "yr": "2014-2014"
     },
     {
       "i": {

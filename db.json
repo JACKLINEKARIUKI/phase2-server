@@ -67,22 +67,6 @@
     },
     {
       "i": {
-        "height": 2048,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_.jpg",
-        "width": 1382
-      },
-      "id": "tt2704998",
-      "l": "Game Night",
-      "q": "feature",
-      "qid": "movie",
-      "description": "When Max and Annie play a harmless murder mystery game with Max's brother Brooks and some friends, things begin to take surprising twists and turns as not all is what it seems to be.",
-      "genre": "Comedy",
-      "rank": 2615,
-      "s": "Jason Bateman, Rachel McAdams",
-      "y": 2018
-    },
-    {
-      "i": {
         "height": 1969,
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_.jpg",
         "width": 1321
@@ -123,27 +107,11 @@
       "l": "The Lord of the Rings: The Rings of Power",
       "q": "TV series",
       "qid": "tvSeries",
-      "description": "The Rings of Power is a television series based on J. R. R. Tolkien's The Lord of the Rings. It is a prequel to the 2001–2003 television series The Lord of the Rings.This series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth's history. This epic drama is set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings', and takes viewers back to an era in which great powers were forged, kingdoms rose to glory and fell to ruin, unlikely heroes were tested, hope hung by the finest of threads and the greatest villain that ever flowed from Tolkien's pen threatened to cover all the world in darkness. Beginning in a time of relative peace, the series follows an ensemble cast of characters, both familiar and new, as they confront the long-feared reemergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of the elf-capital of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters carve out legacies that live on long after they are gone.",
+      "description": "The Rings of Power is a television series based on J. R. R. Tolkien's The Lord of the Rings.",
       "genre": "Fantasy",
       "rank": 3,
       "s": "Morfydd Clark, Ismael Cruz Cordova",
       "y": 2022
-    },
-    {
-      "i": {
-        "height": 1600,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmE4NDVlMDEtYjg0OS00OTVmLTg3YjItNWE4MjFhZWEzMGUwXkEyXkFqcGdeQXVyNTExODM0NDI@._V1_.jpg",
-        "width": 2500
-      },
-      "id": "tt3581920",
-      "l": "The Last of Us",
-      "q": "TV series",
-      "qid": "tvSeries",
-      "description": "The Last of Us is an American post-apocalyptic drama television series based on the video game series of the same name. The series is set in a post-apocalyptic world where a fungal infection has wiped out most of humanity, and follows a group of survivors who are forced to live in a quarantine zone. The series is produced by HBO and PlayStation Productions, with Craig Mazin serving as showrunner and Neil Druckmann as executive producer.",
-      "genre": "Drama",
-      "rank": 15,
-      "s": "Pedro Pascal, Bella Ramsey",
-      "y": 2023
     },
     {
       "i": {
@@ -179,22 +147,6 @@
     },
     {
       "i": {
-        "height": 1530,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjVhNTdlMWItMzZhYi00MWZmLTk2NDEtYTczNzBhYzM2ZjMyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
-        "width": 1148
-      },
-      "id": "tt15654262",
-      "l": "Chup",
-      "q": "feature",
-      "qid": "movie",
-      "description": "The film centers on Suresh, a lonely movie director who stumbles into Shanti one evening and casts her as the lead in a film. In a twist of fate, Shanti becomes a superstar and Suresh falls from the upper echelons of the film industry.",
-      "genre": "Thriller",
-      "rank": 71,
-      "s": "Amitabh Bachchan, Pooja Bhatt",
-      "y": 2022
-    },
-    {
-      "i": {
         "height": 2048,
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
         "width": 1382
@@ -208,70 +160,6 @@
       "rank": 334,
       "s": "Robert Downey Jr., Chris Evans",
       "y": 2019
-    },
-    {
-      "i": {
-        "height": 1184,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "width": 800
-      },
-      "id": "tt0848228",
-      "l": "The Avengers",
-      "q": "feature",
-      "qid": "movie",
-      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-      "genre": "Sci-Fi",
-      "rank": 1010,
-      "s": "Robert Downey Jr., Chris Evans",
-      "y": 2012
-    },
-    {
-      "i": {
-        "height": 2048,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
-        "width": 1382
-      },
-      "id": "tt4154756",
-      "l": "Avengers: Infinity War",
-      "q": "feature",
-      "qid": "movie",
-      "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-      "genre": "Sci-Fi",
-      "rank": 749,
-      "s": "Robert Downey Jr., Chris Hemsworth",
-      "y": 2018
-    },
-    {
-      "i": {
-        "height": 2883,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWE0MjkyNGQtMjgwMS00NGIwLTg5YmEtYThlOTQ1NTZmNWFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
-        "width": 1920
-      },
-      "id": "tt21361444",
-      "l": "Avengers: Secret Wars",
-      "q": "feature",
-      "qid": "movie",
-      "description": "The Avengers must stop Thanos from collecting all six Infinity Stones.",
-      "genre": "Sci-Fi",
-      "rank": 871,
-      "s": "Chris Hemsworth, Benedict Cumberbatch",
-      "y": 2025
-    },
-    {
-      "i": {
-        "height": 1280,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
-        "width": 864
-      },
-      "id": "tt2395427",
-      "l": "Avengers: Age of Ultron",
-      "q": "feature",
-      "qid": "movie",
-      "description": "Tony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner. When the sentient Ultron makes plans to wipe out the human race, the Avengers set out to stop him.",
-      "genre": "Sci-Fi",
-      "rank": 1212,
-      "s": "Robert Downey Jr., Chris Evans",
-      "y": 2015
     },
     {
       "i": {
@@ -337,22 +225,6 @@
       "rank": 279,
       "s": "Daniel Radcliffe, Rupert Grint",
       "y": 2001
-    },
-    {
-      "i": {
-        "height": 2048,
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
-        "width": 1385
-      },
-      "id": "tt0304141",
-      "l": "Harry Potter and the Prisoner of Azkaban",
-      "q": "feature",
-      "qid": "movie",
-      "description": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.",
-      "genre": "Fantasy",
-      "rank": 1014,
-      "s": "Daniel Radcliffe, Emma Watson",
-      "y": 2004
     }
   ],
   "w": [
